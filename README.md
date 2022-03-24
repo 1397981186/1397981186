@@ -17,7 +17,7 @@ I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 
 ---
 👻 Quote  
-<center>她跳舞一个人跳 他说笑也一个人笑  --Ghm 2015-5-31 23：52 </center>
+<p align="center">他跳舞一个人跳 他说笑也一个人笑  --Ghm 2015-5-31 23:52</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=1397981186.1397981186)
 [![Profile last updated](https://img.shields.io/github/last-commit/1397981186/1397981186?label=Last%20updated&style=flat)](https://github.com/1397981186/1397981186/commits)
