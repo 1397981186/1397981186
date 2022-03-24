@@ -1,4 +1,7 @@
-### Hi there 👋
+<font size=4>### Hi there 👋</font>  
+Welcome to my page!  
+I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
+---
 💬 Ask me about anything [here](https://github.com/1397981186/1397981186/issues)
 
 
@@ -12,6 +15,9 @@
 1. 💪 Opened PR [#1](https://github.com/1397981186/Ns3-Pdcp-Nr/pull/1) in [1397981186/Ns3-Pdcp-Nr](https://github.com/1397981186/Ns3-Pdcp-Nr)
 <!--END_SECTION:activity-->
 
+---
+👻 Quote  
+<center>她跳舞一个人跳 他说笑也一个人笑  --Ghm 2015-5-31 23：52 </center>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=1397981186.1397981186)
 [![Profile last updated](https://img.shields.io/github/last-commit/1397981186/1397981186?label=Last%20updated&style=flat)](https://github.com/1397981186/1397981186/commits)
