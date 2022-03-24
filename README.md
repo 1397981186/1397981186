@@ -7,5 +7,10 @@
 | ------------- | ------------- |
 
 
+Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=1397981186.1397981186)
 [![Profile last updated](https://img.shields.io/github/last-commit/1397981186/1397981186?label=Last%20updated&style=flat)](https://github.com/1397981186/1397981186/commits)
