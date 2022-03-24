@@ -1,5 +1,5 @@
 ### Hi there 👋
-|💬 Ask me about anything [here](https://github.com/1397981186/1397981186/issues)|<p align="right"><a href="https://1397981186.github.io"><img width="80%" src="./assets/unicorn .jpg" /></a></p>|
+|💬 Ask me about anything [here](https://github.com/1397981186/1397981186/issues)|<p align="right"><a href="https://1397981186.github.io"><img height="200" width="200" src="./assets/unicorn .jpg" /></a></p>|
 | ------------- | ------------- |
 
 📈 my github stats
