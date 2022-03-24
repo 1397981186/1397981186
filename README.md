@@ -1,4 +1,4 @@
-<font size=4>### Hi there 👋</font>  
+<font size=4> Hi there 👋</font>  
 Welcome to my page!  
 I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 ---
