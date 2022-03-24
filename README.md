@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 
 
-Recent Activity
+🔥 Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/1397981186/Ns3-Pdcp-Nr/pull/1) in [1397981186/Ns3-Pdcp-Nr](https://github.com/1397981186/Ns3-Pdcp-Nr)
 <!--END_SECTION:activity-->
