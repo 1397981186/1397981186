@@ -14,6 +14,10 @@ I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
+2. ❗️ Opened issue [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
+3. 💪 Opened PR [#1](https://github.com/1397981186/Ns3-Pdcp-Nr/pull/1) in [1397981186/Ns3-Pdcp-Nr](https://github.com/1397981186/Ns3-Pdcp-Nr)
+<!--END_SECTION:activity-->
 
 [![AleMin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1397981186&bg_color=FFFFFF&line=85CEFF)](https://github.com/1397981186)
 ---
