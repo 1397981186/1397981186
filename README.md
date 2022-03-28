@@ -14,7 +14,7 @@ I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 🔥 Recent Activity
 [![AleMin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1397981186&bg_color=FFFFFF&line=85CEFF)](https://github.com/1397981186)
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
+1. 🗣 Commented on [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
 <!--END_SECTION:activity-->
 
 ---
