@@ -7,10 +7,12 @@ I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 
 📈 My Github Stats
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1397981186&show_icons=true&include_all_commits=true&hide_border=true" alt="1397981186" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1397981186&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- |  
+![Metrics](https://metrics.lecoq.io/1397981186?template=classic&config.timezone=Asia%2FShanghai)
 
 
 🔥 Recent Activity
+[![AleMin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1397981186&bg_color=FFFFFF&line=85CEFF)](https://github.com/1397981186)
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com/1397981186/Ns3-Pdcp-Nr/pull/1) in [1397981186/Ns3-Pdcp-Nr](https://github.com/1397981186/Ns3-Pdcp-Nr)
 <!--END_SECTION:activity-->
