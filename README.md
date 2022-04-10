@@ -14,9 +14,9 @@ I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/sunshaozong111/NS3-with-LEO/issues/1) in [sunshaozong111/NS3-with-LEO](https://github.com/sunshaozong111/NS3-with-LEO)
-2. 🗣 Commented on [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
-3. ❗️ Opened issue [#1](https://github.com/1397981186/1397981186/issues/1) in [1397981186/1397981186](https://github.com/1397981186/1397981186)
+1. 🎉 Merged PR [#1](https://github.com/1397981186/ns-3-dev-master/pull/1) in [1397981186/ns-3-dev-master](https://github.com/1397981186/ns-3-dev-master)
+2. 💪 Opened PR [#1](https://github.com/1397981186/ns-3-dev-master/pull/1) in [1397981186/ns-3-dev-master](https://github.com/1397981186/ns-3-dev-master)
+3. ❗️ Closed issue [#1](https://github.com/sunshaozong111/NS3-with-LEO/issues/1) in [sunshaozong111/NS3-with-LEO](https://github.com/sunshaozong111/NS3-with-LEO)
 <!--END_SECTION:activity-->
 
 [![AleMin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1397981186&bg_color=FFFFFF&line=85CEFF)](https://github.com/1397981186)
