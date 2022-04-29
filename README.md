@@ -1,9 +1,9 @@
-<font size=4> Hi there 👋</font>  
+<font size=4> **Hi there** 👋</font>   
 Welcome to my page!  
-
----
+I am learning programming.   
 💬 Ask me about anything [here](https://github.com/1397981186/1397981186/issues)
 
+---
 
 📈 My Github Stats
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1397981186&show_icons=true&include_all_commits=true&hide_border=true" alt="1397981186" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1397981186&layout=compact&hide_border=true" /></a> |
