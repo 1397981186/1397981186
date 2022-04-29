@@ -1,6 +1,6 @@
 <font size=4> Hi there 👋</font>  
 Welcome to my page!  
-I'm AleMin, student from  Zhangye, Gansu, currently living in  Xian, Shannxi.
+
 ---
 💬 Ask me about anything [here](https://github.com/1397981186/1397981186/issues)
 
